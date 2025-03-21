@@ -14,3 +14,9 @@ Notebook da análise exploratória
 
 ## > IaCD_ML.ipynb
 Notebook dos modelos de aprendizado de máquina
+
+## > Relatório_IaCD.pdf
+Relatório em PDF
+
+## > Relatório_IaCD.qmd
+Script do relatório no Quarto
