@@ -5,8 +5,8 @@
 ### Relatório_IaCD.pdf
 Relatório em PDF
 
-### Relatório_IaCD.qmd
-Script do relatório no Quarto
+### Relatório_IaCD.zip
+Arquivo zip contendo o projeto do relatório no Quarto
 
 ## Códigos
 
